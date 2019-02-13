@@ -39,7 +39,7 @@ $angelscript = AngelScript.new(
 )
 
 $sfml = SFML.new(
-  version: "2.4.x",
+  version: "master",
   installPath: THIRD_PARTY_INSTALL,
   noInstallSudo: true
 )
